@@ -1,0 +1,24 @@
+{
+  "name": "promesses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pierre-AntoineCAYLA/promesses.git"
+  },
+  "build": "webpack --watch",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pierre-AntoineCAYLA/promesses/issues"
+  },
+  "homepage": "https://github.com/Pierre-AntoineCAYLA/promesses#readme",
+  "dependencies": {
+    "es6-promise": "^4.2.4",
+    "fs-extra": "^6.0.1"
+  }
+}

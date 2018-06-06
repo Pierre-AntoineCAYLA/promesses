@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Donegal",
+    "owner": {
+      "firstName": "Hubert",
+      "lastName": "Hodicq",
+      "mail": "hubert@done.com"
+    },
+    "openDays": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "openHours": {
+      "start": 8,
+      "end": 1
+    },
+    "beers": [
+      {
+        "type": "Blonde",
+        "name": "Triple Karmeliet"
+      },
+      {
+        "type": "Blonde",
+        "name": "kwak"
+      },
+      {
+        "type": "stut",
+        "name": "Guiness"
+      }
+    ]
+  },
+  {
+    "name": "higlander",
+    "owner": {
+      "firstName": "Franck",
+      "lastName": "Arnaud",
+      "mail": "fraarnaud@higlander.com"
+    },
+    "openDays": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "openHours": {
+      "start": 13,
+      "end": 1
+    },
+    "beers": [
+      {
+        "type": "Blonde",
+        "name": "Rince cochon"
+      },
+      {
+        "type": "Blonde",
+        "name": "Faro"
+      },
+      {
+        "type": "Rouge",
+        "name": "Kriek"
+      }
+    ]
+  }
+]
